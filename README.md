@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joe
-- 👀 I’m interested in Neurosymbollic Learning (in the context of Reinforcement Learning) and Robustness of Learning Enabled Controllers
+- 👀 I’m interested in Neurosymbolic Learning (in the context of Reinforcement Learning) and Robustness of Learning Enabled Controllers
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 Email me at "\<first name initial\> \<last name\> @purdue.edu"
